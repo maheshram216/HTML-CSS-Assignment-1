@@ -5,3 +5,87 @@
 width: 100%;
 height: 100%;
 }
+.container-1{
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+    margin-bottom: 2.5%;
+}
+.col1{
+    width: 48%;
+    height: 94%;
+    display: inline-block;
+    margin: 1%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    font-size:large;
+    vertical-align: top;
+    text-align: left;
+}
+.col2{
+    width: 50%;
+    height: 34em;
+    display: inline-block;
+    padding-left: 2%;
+}
+#render-wiki{
+    width: 43%;
+    height: 100%;
+    display: inline-block;
+    margin-bottom: 30%;
+    margin-top: 2%;
+    position: absolute;
+    right: 5%;
+    top: 1%;
+}
+.container-2{
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+}
+.row1{
+    width: 48%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 24%;
+    padding-top: 1%;
+    padding-bottom: 2.5%;
+    font-size: large;
+}
+.row2{
+    width: 100%;
+    height: 30em;
+    display: inline-block;
+    margin-bottom: 1.5%;
+}
+#render-dictionary{
+    width: 80%;
+    height: 100%;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 10%;
+}
+.button1{
+    width: 25%;
+    height: 3em;
+    display: block;
+    font-size: large;
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+}
+.button2{
+    width: 25%;
+    height: 3em;
+    display: block;
+    font-size: large;
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+    position: relative;
+    left: 30%;
+}
