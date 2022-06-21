@@ -4,7 +4,7 @@
 .container, .content {
 width: 100%;
 height: 100%;
-background-image: url("./images/back.jpg");
+
 }
 .box1{
     width: 100%;
@@ -33,15 +33,15 @@ ul{
     font: bold;
 }
 .box2{
-    width: 100%;
+    width: 50%;
     height: 40%;
 }
 #hero{
-    background-image: url("reset.css/back.jpg");
-    width: 104.5rem;
+    width: 94em;
     height: 40em;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('../Assignment-4/images/back.jpg');
 }
 #img1{
     width: 20%;
